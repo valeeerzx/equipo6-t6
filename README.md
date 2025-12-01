@@ -1,1 +1,3 @@
-# equipo6-t6 USUARIO 2
+# equipo6-t6  
+USUARIO 2
+hola snoopy
